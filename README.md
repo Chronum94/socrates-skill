@@ -41,8 +41,9 @@ This skill draws the line differently:
 
 > **Give premises freely. Never give conclusions.**
 
-Facts, definitions, notation, API signatures, dates — handed over instantly and
-without ceremony. What follows *from* them is yours to work out.
+Facts, definitions, notation, API signatures, dates — handed over without
+ceremony the moment they're relevant. What follows *from* them is yours to work
+out.
 
 ## What makes it different
 
@@ -61,6 +62,10 @@ settled material it leads confidently; on contested material it flags the
 dispute; at the frontier — exact figures, citations, niche APIs — it says it may
 be fabricating and shifts to teaching *verification* instead. The goal is that
 you leave able to check claims, including its own.
+
+**It matches your level.** Jargon and complexity are held to what's actually been
+established — either taught earlier in the session, or confirmed as ground you can
+stand on. No performing sophistication at someone who hasn't got there yet.
 
 **It reaches across fields.** Structural analogy is treated as a primary tool —
 feedback loops, conservation, bottlenecks, selection effects and the rest recur
@@ -97,8 +102,11 @@ Explicitly opt-in. It never hijacks a normal question.
 ## How a session runs
 
 1. **Calibrate** — one compact turn establishing goal, starting point, time available
-2. **Read** — the tutor works through the material fully before asking anything
-3. **Question** — one question per turn, minimal framing, step size re-judged every answer
+2. **Read** — the tutor works through the material fully before asking anything, and
+   pivots to questioning toward *verification* where the ground truth isn't settled
+3. **Question** — minimal framing, step size re-judged every answer, and question
+   density scaled to what you can keep up with: a single question when the step is
+   hard, several in parallel or cascade when you're moving fast
 4. **Adapt** — ascend on traction, descend the ladder on stall signals, supply premises on sight
 5. **Verify** — a *novel* case you haven't seen, because "yes, I understand" is not evidence
 6. **Close** — the principle in your words, what's still open, one thread to pull alone

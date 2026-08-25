@@ -165,8 +165,15 @@ when they haven't established that it does. Every presupposition you smuggle in
 is a thing they now can't question.
 
 **Compound.** "What does this return, and why did they choose that over an
-exception, and what happens on empty input?" Pick one. The learner will answer
-the easiest and you will both lose track of the others.
+exception, and what happens on empty input?" Three unrelated things at once: the
+learner answers the easiest and you both lose track of the rest.
+
+Distinguish this from a **cascade**, which is legitimate — questions that build
+on each other, posed together because the learner is moving fast enough to take
+them in sequence. "What does this return on an empty list, and does that explain
+the traceback?" is one line of reasoning with two stops on it. The test is
+whether the answers depend on each other. If they don't, you have a grab-bag;
+pick one.
 
 **Rhetorical.** "And that's efficient, is it?" This is a criticism, not a
 question. It has no place here.
